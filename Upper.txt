@@ -1,0 +1,22 @@
+T-shirt,white
+T-shirt,black
+T-shirt,maroon
+T-shirt,olive green
+T-shirt,blue
+T-shirt,pink
+T-shirt,yellow
+T-shirt,grey
+T-shirt,light grey
+Shirt,white
+Shirt,black
+Shirt,pink
+Shirt,grey
+Shirt,light blue
+Shirt,light green
+Sweater,grey
+Hoodie,white
+T-shirt,white
+T-shirt,maroon
+Polo shirt,white
+Polo shirt,black
+Shirt,green

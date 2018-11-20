@@ -1,0 +1,9 @@
+sneaker,white
+sneaker,grey
+sneaker,black
+sports shoes,white
+sports shoes,black
+loafer,black
+loafer,blue
+dress shoes,black
+loafer,pink

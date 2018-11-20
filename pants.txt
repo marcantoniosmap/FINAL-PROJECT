@@ -1,0 +1,12 @@
+shorts,navy blue
+shorts,khaki
+shorts,green
+shorts,white
+shorts,black
+jeans,black
+jeans,navy blue
+jeans,maroon
+jeans,white
+jeans,grey
+chino,khaki
+jogger,black

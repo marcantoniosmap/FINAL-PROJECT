@@ -1,0 +1,10 @@
+leather,black
+bomber,brown
+bomber,light grey
+bomber,blue
+bomber,camo
+sport jacket,white
+zipped hoodie,red
+flannel,blue
+zipped hoodie,black
+flannel,red
